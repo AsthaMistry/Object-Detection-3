@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{
+    width: 100%;
+    font-size: larger;
+    margin-top: 0px;
+}
+
+.heading:hover{
+    font-size: large;
+}
+
+.link{
+    background-color: plum;
+    text-align: center;
+    width: 100px;
+    border-radius: 5px;
+    margin-left: 50%;
+}
+
+canvas{
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px lightseagreen;
+}
